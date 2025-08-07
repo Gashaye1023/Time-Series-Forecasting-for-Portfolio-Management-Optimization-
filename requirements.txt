@@ -1,0 +1,9 @@
+yfinance
+pandas
+numpy
+matplotlib
+statsmodels
+pmdarima
+tensorflow
+scikit-learn
+PyPortfolioOpt
